@@ -5,19 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshika123" alt="dikshika123" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **contact Manager Application**
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [github.com/Dikshika123](github.com/Dikshika123)
 
-- 💬 Ask me about **react, advance java and core java**
+- 💬 Ask me about **react  and core java**
 
 - 📫 How to reach me **dikshika2019@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fh4iVMpGYTzAju38KQEnShm85dHNWRll/view?usp=sharing)
 
-- ⚡ Fun fact **I love to do dance.**
+  - ⚡ Fun fact **I love to do dance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
